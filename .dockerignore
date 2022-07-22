@@ -1,0 +1,6 @@
+.git
+.dockerignore
+.env
+pcc/node_modules/
+pcc/vendor/bundle/
+pcc/tmp/
